@@ -13,5 +13,4 @@ I am an Undergraduate Computer Engineering Student who Interseted in Core Progra
 - Currently focus on learning Java technology like Spring, SpringMVC, Spring Boot, Hibernate,...etc
 - Also, I have Created Many Android apps 
 - Languages I have Learnt: Java, C++, Python, JavaScript
-- I love two code so I never stop :)
 
