@@ -46,9 +46,10 @@
 - **_Java Swing_**
 
 **_Personal Skills:_**
-- **_Soft Skills Fundamentals_**
+- **_Public speaking_**
+- **_Communication skills_**
 - **_Accept challenges and searching for problem solutions_**
-- **_Willing to learn something new_**
+- **_Always Willing to learn something new_**
 
 
 **_Languages_:**
