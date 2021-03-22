@@ -6,19 +6,17 @@
 
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-**_CONTACTS:_**
-
-- _E-mail_: ms01010103727@gmail.com
-- _Hacker Rank_: https://www.hackerrank.com/mo_sala7 
-- _Mobile:_ 0020-1010-103727
-
-
-
 - 🔭 I’m currently Learning Java Frameworks & Python
 - 🌱 I’m currently Studing Computer Engineering
 - 👯 I’m looking to Collaborate on many amazing projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
+**_Find me:_**
+
+- _E-mail_: ms01010103727@gmail.com
+- _Hacker Rank_: https://www.hackerrank.com/mo_sala7 
+- _Mobile:_ 0020-1010-103727
 
 
 **_**Tools & Technologies**_:**
