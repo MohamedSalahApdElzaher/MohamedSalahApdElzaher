@@ -1,4 +1,4 @@
-<h1 align="center">Hi, this is Muhammad 👋</h1>
+<h1 align="center">Hi, this is Muhammad Salah 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/muhammad-salah-4a749018b/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/channel/UCnVzhpqu7gFn_1ycHyI9ofA"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
@@ -12,8 +12,14 @@
 - _Hacker Rank_: https://www.hackerrank.com/mo_sala7 
 - _Mobile:_ 0020-1010-103727
 
-**_EDUCATION_:**
-### _I am an Undergraduate Computer Engineering Student who Interseted in Core Programming and Technologies Such as Mobile/Backend Development_
+
+
+- 🔭 I’m currently Learning Java Frameworks & Python
+- 🌱 I’m currently Studing Computer Engineering
+- 👯 I’m looking to Collaborate on many amazing projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+
 
 **_**Tools & Technologies**_:**
 - **_Object-Oriented Programming_**
