@@ -9,8 +9,7 @@
 - 🔭 I’m currently Learning Java Frameworks & Python
 - 🌱 I’m currently Studing Computer Engineering
 - 👯 I’m looking to Collaborate on many amazing projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 
 **_Find me:_**
 
