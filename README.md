@@ -12,7 +12,6 @@
 - 🌱 I’m currently Studing Computer Engineering
 - 👯 I’m looking to Collaborate on many amazing projects
 - 📫 How to reach me: ms01010103727@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1KXNxTbrJ6keZ88Z2vBTeb-Gjlz94V-pw/view?usp=sharing)
 
 
 **_**Languages & Tools:**_:**
