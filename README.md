@@ -1,7 +1,9 @@
 <h1 align="center">Hi, this is Muhammad Salah 👋</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/muhammad-salah-4a749018b/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.youtube.com/channel/UCnVzhpqu7gFn_1ycHyI9ofA"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/muhammad-salah-4a749018b/"><img src="https://img.shields.io/badge/LinkedIn-Contact-blue"/></a>
+    <a href="https://www.youtube.com/channel/UCnVzhpqu7gFn_1ycHyI9ofA"><img src="https://img.shields.io/badge/Youtube-Contact-red"/></a>
+     <a href="https://www.hackerrank.com/mo_sala7"><img src="https://img.shields.io/badge/HackerRank-Follow-green"/></a>
+    <a href="https://www.facebook.com/profile.php?id=100004219846601"><img src="https://img.shields.io/badge/Facebook-Contact-blue"/></a>
   </p>
 
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
@@ -11,14 +13,13 @@
 - 👯 I’m looking to Collaborate on many amazing projects
 
 
-**_Find me:_**
+**_**Find me**:_**
 
-- _E-mail_: ms01010103727@gmail.com
-- _Hacker Rank_: https://www.hackerrank.com/mo_sala7 
-- _Mobile:_ 0020-1010-103727
+- _[E-mail](https://www.masm32.com/)_
+- _[Hacker Rank](https://www.hackerrank.com/mo_sala7)_ 
 
 
-**_**Tools & Technologies**_:**
+**_**Skills & Technologies**_:**
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms_**
 - **_Problem Solving_**
