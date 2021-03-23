@@ -44,18 +44,14 @@
 - **_Servlets & JSP_**
 - **JavaScript & Html & Css**
 - **_Tomcat_**
-- **_Git & Github_**
 - **_JUnit_**
-- **_Python & C/C++_**
 - **_Debugging_**
-- **_Android Development_**
 - **_Generics_**
 - **_Collection APIs_**
 - _**Concurrency APIs**_
 - **_Stream API_**
 - **_Functional Programming_**
 - **_lambda functions_**
-- **_Java Swing_**
 
 **_Personal Skills:_**
 - **_Public speaking_**
