@@ -31,25 +31,16 @@
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms_**
 - **_Problem Solving_**
-- **_Spring Core_**
-- **_AOP_**
-- **_Spring MVC_**
-- **_Spring Security_**
-- **_Spring REST_**
+- **_Spring Core, Spring MVC, AOP, Spring Security, Spring REST_**
 - **_Spring Boot_**
 - **_Thymeleaf_**
 - **_JPA & Hibernate_**
 - **_JavaSE & JavaEE_**
-- **_Java Database Connectivity (JDBC)_**
-- **_Servlets & JSP_**
-- **JavaScript & Html & Css**
+- **_Servlets & JSP with JDBC_**
+- **_JavaScript & Html & CSS_**
 - **_Tomcat_**
-- **_JUnit_**
-- **_Debugging_**
-- **_Generics_**
-- **_Collection APIs_**
-- _**Concurrency APIs**_
-- **_Stream API_**
+- **_JUnit testing & Debugging skills_**
+- **_Generics, Collection APIs, Concurrency APIs, Stream API_**
 - **_Functional Programming_**
 - **_lambda functions_**
 
