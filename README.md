@@ -3,7 +3,6 @@
     <a href="https://www.linkedin.com/in/muhammad-salah-4a749018b/"><img src="https://img.shields.io/badge/LinkedIn-Contact-blue"/></a>
     <a href="https://www.youtube.com/channel/UCnVzhpqu7gFn_1ycHyI9ofA"><img src="https://img.shields.io/badge/Youtube-Contact-red"/></a>
     <a href="https://www.hackerrank.com/mo_sala7"><img src="https://img.shields.io/badge/HackerRank-Follow-green"/></a>
-    <a href="ms01010103727@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-orange"/></a>
     <a href="https://www.facebook.com/profile.php?id=100004219846601"><img src="https://img.shields.io/badge/Facebook-Contact-blue"/></a>
   </p>
 
