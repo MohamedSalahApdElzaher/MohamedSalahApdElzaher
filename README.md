@@ -14,7 +14,7 @@
 - 📫 How to reach me: ms01010103727@gmail.com
 
 
-**_**Languages & Tools:**_:**
+**_**Languages & Tools:**_**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -33,7 +33,7 @@
 - **_Spring Core, Spring MVC, AOP, Spring Security, Spring REST_**
 - **_Spring Boot_**
 - **_Thymeleaf_**
-- **_JPA & Hibernate_**
+- **_JPA & Hibernate_** 
 - **_JavaSE & JavaEE_**
 - **_Servlets & JSP with JDBC_**
 - **_JavaScript & Html & CSS_**
