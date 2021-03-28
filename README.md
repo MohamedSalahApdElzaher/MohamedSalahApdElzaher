@@ -37,11 +37,9 @@
 - **_JavaSE & JavaEE_**
 - **_Servlets & JSP with JDBC_**
 - **_JavaScript & Html & CSS_**
-- **_Tomcat_**
 - **_JUnit testing & Debugging skills_**
 - **_Generics, Collection APIs, Concurrency APIs, Stream API_**
-- **_Functional Programming_**
-- **_lambda functions_**
+- **_Functional Programming & lambda functions_**
 - **_Comparable & Comparator Interfaces_**
 
 **_Personal Skills:_**
