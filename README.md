@@ -42,6 +42,7 @@
 - **_Generics, Collection APIs, Concurrency APIs, Stream API_**
 - **_Functional Programming_**
 - **_lambda functions_**
+- **_Comparable & Comparator Interfaces_**
 
 **_Personal Skills:_**
 - **_Public speaking_**
