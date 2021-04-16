@@ -35,6 +35,7 @@
 - **_Thymeleaf_**
 - **_JPA & Hibernate_** 
 - **_JavaSE & JavaEE_**
+- **_Python & C/C++_**
 - **_Servlets & JSP with JDBC_**
 - **_JavaScript & Html & CSS_**
 - **_JUnit testing & Debugging skills_**
