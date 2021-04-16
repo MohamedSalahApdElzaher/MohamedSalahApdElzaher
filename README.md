@@ -29,18 +29,16 @@
 
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms_**
-- **_Problem Solving_**
+- **_Problem Solving Skills_**
 - **_Spring Core, Spring MVC, AOP, Spring Security, Spring REST_**
-- **_Spring Boot_**
-- **_Thymeleaf_**
+- **_Spring Boot & Thymeleaf_**
 - **_JPA & Hibernate_** 
-- **_JavaSE & JavaEE_**
-- **_Python & C/C++_**
 - **_Servlets & JSP with JDBC_**
-- **_JavaScript & Html & CSS_**
+- **_Java (8-16), Python & C/C++_**
+- **_JavaScript, Html & CSS_**
 - **_JUnit testing & Debugging skills_**
-- **_Generics, Collection APIs, Concurrency APIs, Stream API_**
-- **_Functional Programming & lambda functions_**
+- **_Java Generics, Collection APIs, Concurrency APIs, Stream API_**
+- **_Functional Programming & lambda functions in Java_**
 - **_Comparable & Comparator Interfaces_**
 
 **_Personal Skills:_**
