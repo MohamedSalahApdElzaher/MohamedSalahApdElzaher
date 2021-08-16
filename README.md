@@ -30,16 +30,15 @@
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms_**
 - **_Problem Solving Skills_**
+- **_Java, PHP, Python & C/C++_**
+- **_JavaScript, Html & CSS_**
+- **_Laravel_**
+- **_SQL, MYSQL, MongoDB_**
+- **_WordPress & BootStrap
 - **_Spring Core, Spring MVC, AOP, Spring Security, Spring REST_**
-- **_Spring Boot & Thymeleaf_**
 - **_JPA & Hibernate_** 
 - **_Servlets & JSP with JDBC_**
-- **_Java (8-16), Python & C/C++_**
-- **_JavaScript, Html & CSS_**
-- **_JUnit testing & Debugging skills_**
-- **_Java Generics, Collection APIs, Concurrency APIs, Stream API_**
-- **_Functional Programming & lambda functions in Java_**
-- **_Comparable & Comparator Interfaces_**
+
 
 **_Personal Skills:_**
 - **_Public speaking_**
