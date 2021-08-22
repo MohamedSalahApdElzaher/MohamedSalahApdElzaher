@@ -33,7 +33,7 @@
 - **_Java, PHP, Python & C/C++_**
 - **_JavaScript, Html & CSS_**
 - **_Laravel_**
-- **_SQL, MYSQL, MongoDB_**
+- **_SQL, MYSQL, PostgreSQL, MongoDB_**
 - **_WordPress & BootStrap_**
 - **_Spring Core, Spring MVC, AOP, Spring Security, Spring REST_**
 - **_JPA & Hibernate_** 
