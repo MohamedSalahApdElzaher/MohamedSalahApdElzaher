@@ -8,9 +8,8 @@
 
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-- 🔭 I’m currently Learning Backend PHP (Laravel) & Java (Spring Boot)
+- 🔭 I’m currently Learning Backend Engineering PHP (Laravel) & Java (Spring Boot)
 - 🌱 I’m currently a Senior Computer Engineering Student
-- 👯 I’m looking to Collaborate on many amazing projects
 - 📫 How to reach me: ms01010103727@gmail.com
 
 
