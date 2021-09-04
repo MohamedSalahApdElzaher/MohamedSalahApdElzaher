@@ -34,11 +34,7 @@
 - **_Laravel_**
 - **_SQL, MYSQL, PostgreSQL, MongoDB_**
 - **_WordPress & BootStrap_**
-- **_XAMPP AND WAMPServer_**
-- **_Spring Core, Spring MVC, AOP, Spring Security, Spring REST_**
-- **_JPA & Hibernate_** 
-- **_Servlets & JSP with JDBC_**
-
+- **_XAMPP and WAMPServer_**
 
 **_Personal Skills:_**
 - **_Public speaking_**
