@@ -29,12 +29,12 @@
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms_**
 - **_Problem Solving Skills_**
-- **_Java, PHP, Python & C/C++_**
-- **_JavaScript, Html & CSS_**
-- **_Laravel_**
+- **_PHP, Laravel_**
 - **_SQL, MYSQL, PostgreSQL, MongoDB_**
+- **_JavaScript, Ajax, Html & CSS_**
 - **_WordPress & BootStrap_**
 - **_XAMPP and WAMPServer_**
+- **_Java, , Python & C/C++_**
 
 **_Personal Skills:_**
 - **_Public speaking_**
