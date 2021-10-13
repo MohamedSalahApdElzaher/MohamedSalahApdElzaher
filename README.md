@@ -8,12 +8,12 @@
 
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-- 🔭 I’m currently Learning Backend Engineering PHP (Laravel)
-- 🌱 I’m currently a Senior Computer Engineering Student
-- 📫 How to reach me: ms01010103727@gmail.com
+- 🔭 _I’m currently Learning Backend Engineering PHP (Laravel)_
+- 🌱 _I’m currently a Senior Computer Engineering Student_
+- 📫 _How to reach me: ms01010103727@gmail.com_
 
 
-**_**Languages & Tools:**_**
+# _Languages & Tools:_
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -38,13 +38,29 @@
 - **_XAMPP and WAMPServer_**
 - **_Java, , Python & C/C++_**
 
-**_Personal Skills:_**
+# _Personal Skills:_
 - **_Public speaking_**
 - **_Communication skills_**
 - **_Accept challenges and searching for problem solutions_**
 - **_Always Willing to learn something new_**
 
-**_Languages_:**
+# _Languages_
 
 - **_Arabic (Native or bilingual proficiency)_**
 - **_English (Professional working proficiency)_**
+
+# _Path Learning and Certifications:_
+
+**_1._** **_LinkedIn Learning 2021_**
+
+-  _Become a PHP Developer learning path (current path)_
+-  _Become a Laravel developer learning path (current path)_
+
+
+**_2. Udacity Nano-degrees (Egypt fwd & itida)_** 
+
+- _WEB DEVELOPMENT CHALLENGER TRACK   (August 2021)_
+- _WEB DEVELOPMENT CHALLENGER TRACK (current path)_
+
+
+
