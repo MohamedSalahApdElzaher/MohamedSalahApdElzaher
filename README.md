@@ -60,7 +60,7 @@
 **_2. Udacity Nano-degrees (Egypt fwd & itida)_<a href="https://egfwd.com/web/"> visit</a>** 
 
 - _WEB DEVELOPMENT CHALLENGER TRACK   (August 2021)_
-- _WEB DEVELOPMENT CHALLENGER TRACK (current path)_
+- _WEB DEVELOPMENT PROFESSIONAL TRACK (current path)_
 
 
 
