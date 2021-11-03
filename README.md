@@ -10,6 +10,7 @@
 
 - 🔭 _I’m currently Learning Backend Engineering PHP (Laravel)_
 - 🌱 _I’m currently a Senior Computer Engineering Student_
+- 🌱 _I’m seeking to be a specialist at PHP | Laravel | React | VueJs_
 - 📫 _How to reach me: ms01010103727@gmail.com_
 
 
