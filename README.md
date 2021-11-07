@@ -54,14 +54,14 @@
 
 **_1._** **_LinkedIn Learning 2021_**
 
--  _Become a PHP Developer learning path Oct 14, 2021 (40 hours of training and building projects)_
+-  _Become a PHP Developer learning path (Oct 14, 2021)_
 -  _Become a Laravel developer learning path (current path)_
 
 
 **_2. Udacity Web developer Nano-degrees (Egypt fwd & itida)_<a href="https://egfwd.com/"> visit</a>** 
 
-- _WEB DEVELOPMENT CHALLENGER TRACK (August 2021)_
-- _WEB DEVELOPMENT PROFESSIONAL TRACK (November 2021)_
+- _Web development challenger track (August 2021)_
+- _Web development professional track (November 2021)_
 
 
 
