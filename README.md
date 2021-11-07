@@ -57,10 +57,10 @@
 -  _Become a Laravel developer learning path (current path)_
 
 
-**_2. Udacity Nano-degrees (Egypt fwd & itida)_<a href="https://egfwd.com/web/"> visit</a>** 
+**_2. Udacity Web developer Nano-degrees (Egypt fwd & itida)_<a href="https://egfwd.com/"> visit</a>** 
 
-- _WEB DEVELOPMENT CHALLENGER TRACK   (August 2021)_
-- _WEB DEVELOPMENT PROFESSIONAL TRACK (current path)_
+- _WEB DEVELOPMENT CHALLENGER TRACK (August 2021)_
+- _WEB DEVELOPMENT PROFESSIONAL TRACK (November 2021)_
 
 
 
