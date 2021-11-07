@@ -35,6 +35,7 @@
 - **_SQL, MYSQL, PostgreSQL, MongoDB_**
 - **_JavaScript, Ajax, Html & CSS_**
 - **_WordPress & BootStrap_**
+- **_Web services and APIs_**
 - **_XAMPP and WAMPServer_**
 - **_Java, , Python & C/C++_**
 
