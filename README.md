@@ -36,7 +36,6 @@
 - **_JavaScript, Ajax, Html & CSS_**
 - **_WordPress & BootStrap_**
 - **_Web services and APIs_**
-- **_XAMPP and WAMPServer_**
 - **_Java, , Python & C/C++_**
 
 # _Personal Skills:_
@@ -58,7 +57,7 @@
 -  _Become a Laravel developer learning path (current path)_
 
 
-**_2. Udacity Web developer Nano-degrees (Egypt fwd & itida)_<a href="https://egfwd.com/"> visit</a>** 
+**_2. Udacity Web developer Nano-degrees (Egypt fwd & itida)_<a href="https://egfwd.com/"> _visit_</a>** 
 
 - _Web development challenger track (August 2021)_
 - _Web development professional track (November 2021)_
