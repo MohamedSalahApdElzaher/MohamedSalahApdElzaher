@@ -30,15 +30,15 @@
 
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms with Problem Solving Skills_**
-- **_PHP, Laravel_**
-- **_MYSQL & PostgreSQL & MongoDB_**
-- **_JavaScript & Ajax & Html & CSS & WordPress & BootStrap_**
-- **_Web services and APIs_**
-- **_very good experience with Java & Python & C/C++_**
+- **_Languages: PHP, Java, python_**
+- **_Frameworks: Laravel, Spring/SpringBoot_**
+- **_DataBases: MYSQL, MongoDB_**
+- **_Front end: JavaScript, Ajax, Html, CSS, BootStrap and CMS like WordPress_**
 
 # _Personal Skills:_
-- **_Public speaking_**
-- **_Communication skills_**
+- **_Ability to self-learn: adapted to challenges in projects and internships_**
+- **_Communication Skills: have been involved in diverse communities._**
+- **_Public speaking and presentation skills: mange a non-profit YouTube channel for teaching programming and technologies_**
 - **_Accept challenges and searching for problem solutions_**
 - **_Always Willing to learn something new_**
 
@@ -51,8 +51,8 @@
 
 **_1._** **_LinkedIn Learning 2021_**
 
--  _Become a PHP Developer learning path (Oct 2021)_
--  _Become a Laravel developer learning path (Dec 2021)_
+-  _[Become a PHP Developer learning path (Oct 2021)](https://www.linkedin.com/learning/paths/become-a-php-developer-2)_
+-  _[Become a Laravel developer learning path (Dec 2021)](https://www.linkedin.com/learning/paths/become-a-laravel-developer)_
 
 
 **_2. Udacity Web developer Nano-degrees (Egypt fwd & itida)_<a href="https://egfwd.com/"> _visit_</a>** 
