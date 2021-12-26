@@ -29,14 +29,12 @@
 
 
 - **_Object-Oriented Programming_**
-- **_Data Structures and Algorithms_**
-- **_Problem Solving Skills_**
+- **_Data Structures and Algorithms with Problem Solving Skills_**
 - **_PHP, Laravel_**
-- **_SQL, MYSQL, PostgreSQL, MongoDB_**
-- **_JavaScript, Ajax, Html & CSS_**
-- **_WordPress & BootStrap_**
+- **_MYSQL & PostgreSQL & MongoDB_**
+- **_JavaScript & Ajax & Html & CSS & WordPress & BootStrap_**
 - **_Web services and APIs_**
-- **_Java, , Python & C/C++_**
+- **_very good experience with Java & Python & C/C++_**
 
 # _Personal Skills:_
 - **_Public speaking_**
@@ -53,7 +51,7 @@
 
 **_1._** **_LinkedIn Learning 2021_**
 
--  _Become a PHP Developer learning path (Oct 14, 2021)_
+-  _Become a PHP Developer learning path (Oct 2021)_
 -  _Become a Laravel developer learning path (Dec 2021)_
 
 
