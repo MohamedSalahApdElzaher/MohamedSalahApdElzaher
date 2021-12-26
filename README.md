@@ -54,7 +54,7 @@
 **_1._** **_LinkedIn Learning 2021_**
 
 -  _Become a PHP Developer learning path (Oct 14, 2021)_
--  _Become a Laravel developer learning path (current path)_
+-  _Become a Laravel developer learning path (Dec 2021)_
 
 
 **_2. Udacity Web developer Nano-degrees (Egypt fwd & itida)_<a href="https://egfwd.com/"> _visit_</a>** 
