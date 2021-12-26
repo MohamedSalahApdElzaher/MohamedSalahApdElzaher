@@ -8,9 +8,9 @@
 
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-- 🔭 _I’m seeking to be a specialist at PHP | Laravel | React | VueJs_
-- 🌱 _I’m currently a Senior Computer Engineering Student_
-- 📫 _How to reach me: ms01010103727@gmail.com_
+- 🔭 **_I’m seeking to be a specialist at PHP | Laravel | React | VueJs_**
+- 🌱 **_I’m currently a Senior Computer Engineering Student_**
+- 📫 **_How to reach me: ms01010103727@gmail.com_**
 
 
 # _Languages & Tools:_
