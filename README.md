@@ -8,7 +8,7 @@
 
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-- 🔭 **_I’m seeking to be a specialist at PHP | Laravel | React | VueJs_**
+- 🔭 **_I’m seeking to be a specialist Backend developer at PHP | Laravel_**
 - 🌱 **_I’m currently a Senior Computer Engineering Student_**
 
 # _Languages & Tools:_
@@ -28,10 +28,12 @@
 
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms with Problem Solving Skills_**
-- **_Languages: PHP, Java, python_**
-- **_Frameworks: Laravel, Spring/SpringBoot_**
-- **_DataBases: MYSQL, MongoDB_**
-- **_Front end: JavaScript, Ajax, Html, CSS, BootStrap and CMS like WordPress_**
+- **_Programing Languages: PHP, Java, python, c/c++_**
+- **_Frameworks: Laravel, Spring / SpringBoot_**
+- **_DataBases: MYSQL, MongoDB, Firebase_**
+- **_Front end: JavaScript, Html|CSS, BootStrap, WordPress and currently learning VueJs_**
+- **_Other technologies I have worked on: Android / Flutter development_**
+
 
 # _Personal Skills:_
 - **_Ability to self-learn: adapted to challenges in projects and internships_**
