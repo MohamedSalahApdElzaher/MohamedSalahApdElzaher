@@ -8,7 +8,7 @@
 
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-- 🔭 **_I’m seeking to be a specialist Backend developer at PHP | LARAVEL_**
+- 🔭 **_I’m seeking to be a specialist Backend developer Stack PHP | LARAVEL_**
 - 🌱 **_I’m currently a Senior Computer Engineering Student_**
 
 # _Languages & Tools:_
