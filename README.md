@@ -29,7 +29,7 @@
 
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms with Problem Solving Skills_**
-- **_Programing Languages:_** _`PHP`, `Java`, `python`, `c/c++`_
+- **_Programming Languages:_** _`PHP`, `Java`, `python`, `c/c++`_
 - **_Frameworks:_** _`Laravel`_
 - **_Databases I have worked on:_** _`MYSQL`, `MongoDB`, `Firebase`_
 - **_Front end Fundamentals:_** _`JavaScript`, `Ajax`, `Html|CSS`, `BootStrap and WordPress`_
