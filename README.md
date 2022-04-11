@@ -29,37 +29,22 @@
 
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms with Problem Solving Skills_**
-- **_Programing Languages: PHP, Java, python, c/c++_**
-- **_Frameworks: Laravel, Spring / SpringBoot_**
-- **_DataBases: MYSQL, MongoDB, Firebase_**
-- **_Front end: JavaScript, Html|CSS, BootStrap, WordPress and currently learning VueJs_**
-- **_Other technologies I have worked on: Android / Flutter development_**
+- **_Programing Languages:_** _`PHP`, `Java`, `python`, `c/c++`_
+- **_Frameworks:_** _`Laravel`_
+- **_Databases I have worked on:_** _`MYSQL`, `MongoDB`, `Firebase`_
+- **_Front end Fundamentals:_** _`JavaScript`, `Ajax`, `Html|CSS`, `BootStrap and WordPress`_
+- **_Web technologies I have worked on (during College):_** _`NodeJs & Express (JavaScript)`, `Spring & SpringBoot (Java)`_
+- **_Mobile technologies I have worked on (during College):_** _`Android` && `Flutter development`_
 
 
 # _Personal Skills:_
-- **_Ability to self-learn: adapted to challenges in projects and internships_**
-- **_Communication Skills: have been involved in diverse communities._**
-- **_Public speaking and presentation skills: mange a non-profit YouTube channel for teaching programming and technologies_**
+- **_Ability to self-learn:_** _adapted to challenges in projects and internships_
+- **_Communication Skills:_** _have been involved in diverse communities_
+- **_Public speaking and presentation skills:_** _mange a non-profit YouTube channel for teaching programming and technologies_
 - **_Accept challenges and searching for problem solutions_**
 - **_Always Willing to learn something new_**
 
 # _Languages_
 
-- **_Arabic (Native or bilingual proficiency)_**
-- **_English (Professional working proficiency)_**
-
-# _Path Learning and Certifications:_
-
-**_1._** **_LinkedIn Learning 2021_**
-
--  _[Become a PHP Developer learning path (Oct 2021)](https://www.linkedin.com/learning/paths/become-a-php-developer-2)_
--  _[Become a Laravel developer learning path (Dec 2021)](https://www.linkedin.com/learning/paths/become-a-laravel-developer)_
-
-
-**_2. Udacity Web developer Nano-degrees (Egypt fwd & itida)_<a href="https://egfwd.com/"> _visit_</a>** 
-
-- _Web development challenger track (August 2021)_
-- _Web development professional track (November 2021)_
-
-
-
+- **_Arabic_** _(Native or bilingual proficiency)_
+- **_English_** _(Professional working proficiency)_
