@@ -8,20 +8,20 @@
 
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-- 🔭 **_I’m currently Learning Backend developement Stack PHP | LARAVEL_**
+- 🔭 **_I’m currently Learning Backend developement_**
 - 🌱 **_I’m currently a Senior Computer Engineering Student_**
 
 # _Languages & Tools:_
 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -30,10 +30,10 @@
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms with Problem Solving Skills_**
 - **_Programming Languages:_** _`PHP`, `Java`, `python`, `c/c++`_
-- **_Frameworks:_** _`Laravel`_
+- **_Frameworks:_** _`Spring Core, Spring MVC, Spring AOP, SpringBoot, Hibernate, JPA, REST APIs`_
 - **_Databases I have worked on:_** _`MYSQL`, `MongoDB`, `Firebase`_
 - **_Front end Fundamentals:_** _`JavaScript`, `Ajax`, `Html|CSS`, `BootStrap and WordPress`_
-- **_Web technologies I have worked on (during College):_** _`NodeJs & Express (JavaScript)`, `Spring & SpringBoot (Java)`_
+- **_Web technologies I have worked on (during College):_** _`NodeJs & Express (JavaScript)`, `Laravel (PHP)`_
 - **_Mobile technologies I have worked on (during College):_** _`Android` && `Flutter development`_
 
 
