@@ -30,10 +30,10 @@
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms with Problem Solving Skills_**
 - **_Programming Languages:_** _`PHP`, `Java`, `python`, `c/c++`_
-- **_Frameworks:_** _`Spring Core, Spring MVC, Spring AOP, SpringBoot, Hibernate, JPA, REST APIs`_
+- **_Frameworks:_** _`Spring, Hibernate, JPA, REST APIs, Laravel (PHP)`_
 - **_Databases I have worked on:_** _`MYSQL`, `MongoDB`, `Firebase`_
 - **_Front end Fundamentals:_** _`JavaScript`, `Ajax`, `Html|CSS`, `BootStrap and WordPress`_
-- **_Web technologies I have worked on (during College):_** _`NodeJs & Express (JavaScript)`, `Laravel (PHP)`_
+- **_Web technologies I have worked on (during College):_** _`NodeJs & Express (JavaScript)`_
 - **_Mobile technologies I have worked on (during College):_** _`Android` && `Flutter development`_
 
 
