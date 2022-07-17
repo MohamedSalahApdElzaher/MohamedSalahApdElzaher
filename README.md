@@ -9,7 +9,7 @@
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 - 🔭 **_I’m currently Learning Backend developement_**
-- 🌱 **_I’m currently a Senior Computer Engineering Student_**
+- 🌱 **_I’m recently graduated from Computer Engineering_**
 
 # _Languages & Tools:_
 
