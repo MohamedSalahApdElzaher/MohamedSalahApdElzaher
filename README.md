@@ -30,14 +30,14 @@
 - **_Object-Oriented Programming_**
 - **_Data Structures and Algorithms with Problem Solving Skills_**
 - **_Clean code, Design patterns, SOLID Principles Fundamentals_**
-- **_Programming Languages:_** _`PHP`, `Java`, `python`, `c/c++`_
-- **_Frameworks & Technology:_** _`Laravel (PHP)`, `Spring (Java), Hibernate` , `REST APIs`_
-- **_Databases I have worked on:_** _`MYSQL`, `MongoDB`, `Firebase`_
+- **_Programming Languages:_** _`Java`, `PHP`, `python`, `c/c++`_
+- **_Frameworks & Technology:_** _`Spring & SpringBoot (Java), Hibernate & JPA` ,`Laravel (PHP)`, `REST APIs`_
+- **_Databases I have worked on:_** _`JDBC`,`MYSQL`, `MongoDB`, `Firebase`_
 - **_Code tools:_** _`Git & gitflow` , `Unit Test`_
 - **_Containers_**: _`Docker`_
 - **_Front end Fundamentals:_** _`JavaScript`, `Html|CSS`, `BootStrap and WordPress`_
 - **_Web technologies I have worked on (during College):_** _`NodeJs & Express (JavaScript)`_
-- **_Mobile technologies I have worked on (during College):_** _`Android` && `Flutter development`_
+- **_Mobile technologies I have worked on (during College):_** _`Flutter development`_
 - **_Linux:_** _Basics_
 
 
