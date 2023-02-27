@@ -35,7 +35,7 @@
 - **_Databases I have worked on:_** _`Postgres`,`MYSQL`, `MongoDB`, `Firebase`_
 - **_Code tools:_** _`Git & gitflow` , `Unit Test`_
 - **_Containers_**: _`Docker`_
-- **_Front end Fundamentals:_** _`JavaScript`, `Html|CSS`, `BootStrap and WordPress`_
+- **_Front end Fundamentals:_** _`Angular`,`JavaScript`, `Html|CSS`, `BootStrap and WordPress`_
 - **_Web technologies I have worked on (during College):_** _`NodeJs & Express (JavaScript)`_
 - **_Mobile technologies I have worked on (during College):_** _`Flutter development`_
 - **_Linux:_** _Basics_
