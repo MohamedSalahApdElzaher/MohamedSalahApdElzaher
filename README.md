@@ -32,7 +32,7 @@
 - **_Clean code, Design patterns, SOLID Principles Fundamentals_**
 - **_Programming Languages:_** _`Java`, `PHP`, `python`, `c/c++`_
 - **_Frameworks & Technology:_** _`Spring & SpringBoot (Java), Hibernate & JPA`, `REST APIs`, `Laravel (PHP)`_
-- **_Databases I have worked on:_** _`Postgres`,`MYSQL`, `MongoDB`, `Firebase`_
+- **_Databases I have worked on:_** _`Oracle`,`MYSQL`, `MongoDB`, `Firebase`_
 - **_Code tools:_** _`Git & SVN`
 - **_Containers_**: _`Docker`_
 - **_Front end Fundamentals:_** _`Angular`,`JavaScript`, `Html|CSS`, `BootStrap and WordPress`_
