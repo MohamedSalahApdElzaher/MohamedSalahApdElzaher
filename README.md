@@ -31,9 +31,9 @@
 - **_Data Structures and Algorithms with Problem Solving Skills_**
 - **_Clean code, Design patterns, SOLID Principles Fundamentals_**
 - **_Programming Languages:_** _`Java`, `PHP`, `python`, `c/c++`_
-- **_Frameworks & Technology:_** _`Spring & SpringBoot (Java), Hibernate & JPA` ,`Laravel (PHP)`, `REST APIs`_
+- **_Frameworks & Technology:_** _`Spring & SpringBoot (Java), Hibernate & JPA`, `REST APIs`, `Laravel (PHP)`_
 - **_Databases I have worked on:_** _`Postgres`,`MYSQL`, `MongoDB`, `Firebase`_
-- **_Code tools:_** _`Git & SVN` , `Unit Test`_
+- **_Code tools:_** _`Git & SVN`
 - **_Containers_**: _`Docker`_
 - **_Front end Fundamentals:_** _`Angular`,`JavaScript`, `Html|CSS`, `BootStrap and WordPress`_
 - **_Web technologies I have worked on (during College):_** _`NodeJs & Express (JavaScript)`_
